@@ -6,6 +6,7 @@ body{
 }
 :root{
   --primary-white:#fff;
+  --primary-orange:#f98b00;
 }
 .App {
   text-align: center;
@@ -52,8 +53,15 @@ nav a.nav-link{
   color: white;
 }
 .navbar-nav >li>a{
+  margin-left: 20px;
   color: var(--primary-white) !important;
 }
 .navbar-brand{
   color: var(--primary-white) !important;
+}
+.navbar-nav> li >a.active, .navbar-nav> li >a:focus{
+  border-top: 0.1875rem solid var(--primary-orange);
+}
+.navbar-nav>li>a:hover{
+  border-top: 0.1875rem solid var(--primary-white);
 }
