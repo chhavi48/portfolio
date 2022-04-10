@@ -1,6 +1,8 @@
 import React from 'react'
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import{faBars} from "@fortawesome/free-solid-svg-icons"
+
 const Navbar = () => {
   return (
    <div className="container-fluid">
@@ -21,6 +23,9 @@ const Navbar = () => {
           </li>
           <li className="nav-item">
             <a className="nav-link" href="#">PROJECTS</a>
+          </li>
+          <li className="nav-item">
+            <a className="nav-link" href="#">SKILLS</a>
           </li>
           <li className="nav-item">
             <a className="nav-link" href="#">CONTACT</a>
