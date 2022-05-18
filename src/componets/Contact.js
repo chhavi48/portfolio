@@ -4,7 +4,7 @@ const Contact = () => {
   return (
         <>
            <div className="about bg-dark mt-2">
-        <h1 style={{color:"white",textAlign:"center"}}>Contact Us</h1>
+        <h1 style={{color:"white",textAlign:"center"}}>Contact Me</h1>
       </div>
         
           {/* <div className="col-sm-12" id="contact">

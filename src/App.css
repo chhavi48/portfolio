@@ -67,7 +67,7 @@ nav a.nav-link{
 }
 .header-wraper{
   position: relative;
-  background: url(C:\Users\AVITA\Desktop\portfoli\myportfolio\src\portimg.webp) no-repeat;
+  background: url("https://wallpapercave.com/wp/wp4810861.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   height:90vh ;
