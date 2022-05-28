@@ -65,8 +65,19 @@ const Skills = () => {
         
           </div>
           <div className='col-sm-2'>
+          <img src="https://i.pinimg.com/474x/11/8e/33/118e33a154dbd057f22ad3752fa7492a.jpg" height="100px" width="100px"/>
+          <p style={{color:"white"}}>Redux</p>
+        
+          </div>
+          <div className='col-sm-2'>
           <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="100px" width="100px"/>
           <p style={{color:"white"}}>Git Bash</p>
+          </div>
+
+          <div className='col-sm-2'>
+          <img src="https://cdn-icons-png.flaticon.com/512/59/59137.png" height="100px" width="100px"/>
+          <p style={{color:"white"}}>Wordpress</p>
+        
           </div>
          
           <div className='col-sm-2'></div>

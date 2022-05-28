@@ -9,7 +9,7 @@ const About = () => {
        <div className='row'>
            <div className='col-sm-1'></div>
            <div className='col-sm-5'>
-                <img  className="photo"src="https://pbs.twimg.com/profile_images/1451523037040283651/iDf18qJ2_400x400.jpg"/>
+                <img  className="photo"src="https://pbs.twimg.com/profile_images/1451523037040283651/iDf18qJ2_400x400.jpg" height="200px"/>
            </div>
            <div className='col-sm-6'>
                      <h4 className='aboutdata'>Full Stack Web-developer</h4>

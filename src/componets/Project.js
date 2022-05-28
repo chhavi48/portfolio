@@ -66,9 +66,9 @@ const Project = () => {
     <img src="https://chhavi48.github.io/coronavirus.github.io/img/c1.jpg" className="card-img-top"></img>
        
   <div className="card-body">
-    <h5 className="card-title">Corona Virus Live Update</h5>
-    <p className="card-text">HTML/CSS/JS/API</p>
-    <a href="https://user-images.githubusercontent.com/77965216/162609864-315953f8-ead2-4e36-8233-c2804efdbd5d.png" className="btn btn-dark">See on Github</a>
+    <h5 className="card-title">Hand Gesture</h5>
+    <p className="card-text">JS</p>
+    <a href="https://user-images.githubusercontent.com/77965216/170827769-69d76979-33b7-4fe2-88f4-63470e08de16.png" className="btn btn-dark">See on Github</a>
   </div>
 </div>
           </div>
